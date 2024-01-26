@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery-easing": "^0.0.1",
+    "swiper": "^10.2.0"
+  }
+}

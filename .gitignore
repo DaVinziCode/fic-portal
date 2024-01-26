@@ -1,0 +1,5 @@
+node_modules
+vendor
+web/img
+config/db.php
+config/params.php
